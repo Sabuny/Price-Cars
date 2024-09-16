@@ -1,0 +1,2 @@
+## A Regression Model
+As always when starting to learn machine learning, the first model is always a regression model. In this project I was able to build a model that can predict Price of used cars. The dataset is from India and I wanted to see if certain features of a car can be used to predict its price. The pricing model that I created can effectively be used to predict used cars based on Kilometers driven, Fuel type, Transmission, Power, Engine and Mileage.  
